@@ -1,31 +1,33 @@
-# Apple Inc. (AAPL) Company Brief — 2026 Issue
+# Apple Inc. (AAPL) Company Brief
 
-**Status:** Draft — for club member review before publication.
-**Store listing:** WooCommerce product ID 10, SKU `AAPL-BRIEF-001`, regular price $19.99, status: draft (hidden from shoppers until promoted).
-**Knowledge graph:** Entity `Apple (AAPL)` (type: Company) plus `Investment Club Research Catalog` (type: Catalog), linked via "is tracked in".
+Research brief covering Apple Inc. (AAPL) prepared by our investment club.
 
-## Company Profile (as of research date)
-- **Company:** Apple Inc. (NASDAQ: AAPL)
+## Company Profile
+
 - **Sector:** Technology
 - **Industry:** Consumer Electronics
-- **Headquarters:** One Apple Park Way, MS 927-4GC, Cupertino, CA 95014, United States (phone: (408) 996-1010; IR site: http://investor.apple.com/)
+- **Headquarters:** One Apple Park Way, MS 927-4GC, Cupertino, CA 95014, United States
 - **Website:** https://www.apple.com
+- **Exchange:** NasdaqGS (NMS), ticker AAPL
 
-## Key Metrics
-- Market cap: ~$5.17T | Price: $355.63 (post-market $356.35)
-- Trailing P/E 39.6 | Forward P/E 33.7 | Analyst rec: 2.2 (Buy), 40 opinions, mean target $344.62 (median $352.50; range $250–$425)
-- 52-week range: $243.42–$355.90 | Earnings growth +11.8% q/q | Revenue growth +11.7%
-- Net income to common ~$132.2B | Trailing EPS $8.98 | Forward EPS $10.55 | Margins: 48.8% gross, 27.6% net, 33% operating
-- Dividend: $1.08/yr (0.31% yield); last dividend $0.27, ex-date Nov 12, 2026
-- ~167,000 employees | Beta 1.089
+## Key Facts
 
-## News Roundup
-> Note: at research time the Yahoo Finance news feed for AAPL was down ("YAHOO! FINANCE IS CURRENTLY DOWN!") and no news items could be retrieved. Re-check the feed before publication and add headline / publisher / link items here.
+Apple Inc. designs, manufactures, and markets smartphones (iPhone), personal computers (Mac), tablets (iPad), wearables (Apple Watch, AirPods), and accessories, plus services including Apple Music, Apple TV+, iCloud, Apple Pay, and AppleCare.
 
-## Business Overview
-Apple designs, manufactures, and markets iPhone, Mac, iPad, wearables (Apple Watch, AirPods, Apple Vision Pro, Apple TV 4K, HomePod), plus services (App Store, Apple Music, Apple TV+, Apple Arcade, Apple Fitness+, iCloud, Apple Care, Apple Card, Apple Pay). Operates retail and online stores plus a direct sales force; serves consumer, SMB, education, enterprise, and government markets globally.
+## Financial Snapshot
 
-## Next Steps for Next Quarter's ближайший Cover
-- Pull fresh news items from the Yahoo Finance feed.
-- Update metrics from the latest quote.
-- Reference the `Apple (AAPL)` knowledge graph entity for prior profile facts.
+- Market cap: ~$5.17T USD
+- Trailing P/E: 39.6 | Forward P/E: 33.7
+- Revenue (TTM): ~$478.8B
+- Net income: ~$132.2B
+- Gross margins: ~48.8%
+- Current price: $355.63 | 52-week range: 243.42 - 355.91
+- Analyst recommendation: 2.2 (Buy), mean target $344.62
+
+## News
+
+News roundup pending — Yahoo Finance news feed was unavailable at time of research pull.
+
+## Leadership
+
+John Ternus (CEO), Kevan Parekh (CFO), Greg Joswiak (SVP Marketing), Sabih Khan (SVP COO).
